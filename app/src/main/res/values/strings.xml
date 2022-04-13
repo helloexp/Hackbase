@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hackbase</string>
+    <string name="sysname">Hackbase 管理系统</string>
+    <string name="slogon">Welcome to Home ,master!</string>
+</resources>
